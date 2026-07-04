@@ -1,5 +1,5 @@
 # 📊 Awesome LLM Financial Datasets
-**A Curated Repository & Master Guide to Open-Source Financial NLP, RAG Benchmarks, Quantitative Instruction Tuning, and Synthetic Chain-of-Thought Ecosystems**
+**A Curated Repository & Master Guide to Open-Source Financial Datasets for LLMs**
 
 ## 🏛️ Repository Architecture & Division Paradigm
 
